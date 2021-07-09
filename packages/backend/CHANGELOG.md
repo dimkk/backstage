@@ -1,5 +1,17 @@
 # example-backend
 
+## 0.2.37
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-common@0.8.6
+  - @backstage/plugin-catalog-backend@0.12.1
+  - @backstage/plugin-scaffolder-backend@0.13.1
+  - @backstage/plugin-search-backend-node@0.4.0
+  - example-app@0.2.37
+  - @backstage/plugin-search-backend@0.2.3
+
 ## 0.2.36
 
 ### Patch Changes
